@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <name>Euphoria Music Fest</name>
+        <date>2024-08-25</date>
+        <venue>Central Park</venue>
+        <price>150</price>
+    </event>
+    <event>
+        <name>Art and Culture Expo</name>
+        <date>2024-09-10</date>
+        <venue>City Hall</venue>
+        <price>100</price>
+    </event>
+    <event>
+        <name>Tech Innovators Summit</name>
+        <date>2024-10-05</date>
+        <venue>Convention Center</venue>
+        <price>200</price>
+    </event>
+</events>
